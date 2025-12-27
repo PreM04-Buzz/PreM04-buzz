@@ -118,6 +118,6 @@ Graph RL · Policy Optimization · Dependency Modeling · Decision Intelligence
 
 
  <p align="center">
-  <img src="assets/snake.gif" alt="Pixel hacker workspace" width="100%"/>
+  <img src="assets/Snake.gif" alt="Pixel hacker workspace" width="100%"/>
 </p>
 
